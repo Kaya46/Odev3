@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Nesne Tabanlı\Örnek2Dizi\Örnek2Dizi\bin\Debug\Örnek2Dizi.exe.config
+C:\Users\HP\Desktop\Nesne Tabanlı\Örnek2Dizi\Örnek2Dizi\bin\Debug\Örnek2Dizi.exe
+C:\Users\HP\Desktop\Nesne Tabanlı\Örnek2Dizi\Örnek2Dizi\bin\Debug\Örnek2Dizi.pdb
+C:\Users\HP\Desktop\Nesne Tabanlı\Örnek2Dizi\Örnek2Dizi\obj\Debug\Örnek2Dizi.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\Örnek2Dizi\Örnek2Dizi\obj\Debug\Örnek2Dizi.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\Örnek2Dizi\Örnek2Dizi\obj\Debug\Örnek2Dizi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\Örnek2Dizi\Örnek2Dizi\obj\Debug\Örnek2Dizi.exe
+C:\Users\HP\Desktop\Nesne Tabanlı\Örnek2Dizi\Örnek2Dizi\obj\Debug\Örnek2Dizi.pdb
+C:\Users\HP\Desktop\Nesne Tabanlı\4HaftaOrnek2\Örnek2Dizi\obj\Debug\Örnek2Dizi.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\4HaftaOrnek2\Örnek2Dizi\obj\Debug\Örnek2Dizi.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\4HaftaOrnek2\Örnek2Dizi\obj\Debug\Örnek2Dizi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\4HaftaOrnek2\Örnek2Dizi\obj\Debug\Örnek2Dizi.exe
+C:\Users\HP\Desktop\Nesne Tabanlı\4HaftaOrnek2\Örnek2Dizi\obj\Debug\Örnek2Dizi.pdb
+C:\Users\HP\Desktop\Nesne Tabanlı\4HaftaOrnek2\Örnek2Dizi\bin\Debug\Örnek2Dizi.exe.config
+C:\Users\HP\Desktop\Nesne Tabanlı\4HaftaOrnek2\Örnek2Dizi\bin\Debug\Örnek2Dizi.exe
+C:\Users\HP\Desktop\Nesne Tabanlı\4HaftaOrnek2\Örnek2Dizi\bin\Debug\Örnek2Dizi.pdb

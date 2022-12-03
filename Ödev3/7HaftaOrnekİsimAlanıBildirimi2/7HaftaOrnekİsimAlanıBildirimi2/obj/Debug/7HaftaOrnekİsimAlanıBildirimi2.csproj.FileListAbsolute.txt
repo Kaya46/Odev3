@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Nesne Tabanlı\7HaftaOrnekİsimAlanıBildirimi2\7HaftaOrnekİsimAlanıBildirimi2\bin\Debug\7HaftaOrnekİsimAlanıBildirimi2.exe.config
+C:\Users\HP\Desktop\Nesne Tabanlı\7HaftaOrnekİsimAlanıBildirimi2\7HaftaOrnekİsimAlanıBildirimi2\bin\Debug\7HaftaOrnekİsimAlanıBildirimi2.exe
+C:\Users\HP\Desktop\Nesne Tabanlı\7HaftaOrnekİsimAlanıBildirimi2\7HaftaOrnekİsimAlanıBildirimi2\bin\Debug\7HaftaOrnekİsimAlanıBildirimi2.pdb
+C:\Users\HP\Desktop\Nesne Tabanlı\7HaftaOrnekİsimAlanıBildirimi2\7HaftaOrnekİsimAlanıBildirimi2\obj\Debug\7HaftaOrnekİsimAlanıBildirimi2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\7HaftaOrnekİsimAlanıBildirimi2\7HaftaOrnekİsimAlanıBildirimi2\obj\Debug\7HaftaOrnekİsimAlanıBildirimi2.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\7HaftaOrnekİsimAlanıBildirimi2\7HaftaOrnekİsimAlanıBildirimi2\obj\Debug\7HaftaOrnekİsimAlanıBildirimi2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\7HaftaOrnekİsimAlanıBildirimi2\7HaftaOrnekİsimAlanıBildirimi2\obj\Debug\7HaftaOrnekİsimAlanıBildirimi2.exe
+C:\Users\HP\Desktop\Nesne Tabanlı\7HaftaOrnekİsimAlanıBildirimi2\7HaftaOrnekİsimAlanıBildirimi2\obj\Debug\7HaftaOrnekİsimAlanıBildirimi2.pdb

@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Nesne Tabanlı\6HaftaOrnekNumaralandırmalar1\6HaftaOrnekNumaralandırmalar1\bin\Debug\6HaftaOrnekNumaralandırmalar1.exe.config
+C:\Users\HP\Desktop\Nesne Tabanlı\6HaftaOrnekNumaralandırmalar1\6HaftaOrnekNumaralandırmalar1\bin\Debug\6HaftaOrnekNumaralandırmalar1.exe
+C:\Users\HP\Desktop\Nesne Tabanlı\6HaftaOrnekNumaralandırmalar1\6HaftaOrnekNumaralandırmalar1\bin\Debug\6HaftaOrnekNumaralandırmalar1.pdb
+C:\Users\HP\Desktop\Nesne Tabanlı\6HaftaOrnekNumaralandırmalar1\6HaftaOrnekNumaralandırmalar1\obj\Debug\6HaftaOrnekNumaralandırmalar1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\6HaftaOrnekNumaralandırmalar1\6HaftaOrnekNumaralandırmalar1\obj\Debug\6HaftaOrnekNumaralandırmalar1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\6HaftaOrnekNumaralandırmalar1\6HaftaOrnekNumaralandırmalar1\obj\Debug\6HaftaOrnekNumaralandırmalar1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\6HaftaOrnekNumaralandırmalar1\6HaftaOrnekNumaralandırmalar1\obj\Debug\6HaftaOrnekNumaralandırmalar1.exe
+C:\Users\HP\Desktop\Nesne Tabanlı\6HaftaOrnekNumaralandırmalar1\6HaftaOrnekNumaralandırmalar1\obj\Debug\6HaftaOrnekNumaralandırmalar1.pdb

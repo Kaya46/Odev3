@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Nesne Tabanlı\8HaftaOrnekBuffer\8HaftaOrnekBuffer\bin\Debug\8HaftaOrnekBuffer.exe.config
+C:\Users\HP\Desktop\Nesne Tabanlı\8HaftaOrnekBuffer\8HaftaOrnekBuffer\bin\Debug\8HaftaOrnekBuffer.exe
+C:\Users\HP\Desktop\Nesne Tabanlı\8HaftaOrnekBuffer\8HaftaOrnekBuffer\bin\Debug\8HaftaOrnekBuffer.pdb
+C:\Users\HP\Desktop\Nesne Tabanlı\8HaftaOrnekBuffer\8HaftaOrnekBuffer\obj\Debug\8HaftaOrnekBuffer.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\8HaftaOrnekBuffer\8HaftaOrnekBuffer\obj\Debug\8HaftaOrnekBuffer.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\8HaftaOrnekBuffer\8HaftaOrnekBuffer\obj\Debug\8HaftaOrnekBuffer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\8HaftaOrnekBuffer\8HaftaOrnekBuffer\obj\Debug\8HaftaOrnekBuffer.exe
+C:\Users\HP\Desktop\Nesne Tabanlı\8HaftaOrnekBuffer\8HaftaOrnekBuffer\obj\Debug\8HaftaOrnekBuffer.pdb

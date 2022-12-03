@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Nesne Tabanlı\3haftaornek7\3haftaornek7\bin\Debug\3haftaornek7.exe.config
+C:\Users\HP\Desktop\Nesne Tabanlı\3haftaornek7\3haftaornek7\bin\Debug\3haftaornek7.exe
+C:\Users\HP\Desktop\Nesne Tabanlı\3haftaornek7\3haftaornek7\bin\Debug\3haftaornek7.pdb
+C:\Users\HP\Desktop\Nesne Tabanlı\3haftaornek7\3haftaornek7\obj\Debug\3haftaornek7.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\3haftaornek7\3haftaornek7\obj\Debug\3haftaornek7.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\3haftaornek7\3haftaornek7\obj\Debug\3haftaornek7.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\3haftaornek7\3haftaornek7\obj\Debug\3haftaornek7.exe
+C:\Users\HP\Desktop\Nesne Tabanlı\3haftaornek7\3haftaornek7\obj\Debug\3haftaornek7.pdb

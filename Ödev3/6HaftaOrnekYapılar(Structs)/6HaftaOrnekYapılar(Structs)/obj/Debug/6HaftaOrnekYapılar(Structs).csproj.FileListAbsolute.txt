@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Nesne Tabanlı\6HaftaOrnekYapılar(Structs)\6HaftaOrnekYapılar(Structs)\bin\Debug\6HaftaOrnekYapılar(Structs).exe.config
+C:\Users\HP\Desktop\Nesne Tabanlı\6HaftaOrnekYapılar(Structs)\6HaftaOrnekYapılar(Structs)\bin\Debug\6HaftaOrnekYapılar(Structs).exe
+C:\Users\HP\Desktop\Nesne Tabanlı\6HaftaOrnekYapılar(Structs)\6HaftaOrnekYapılar(Structs)\bin\Debug\6HaftaOrnekYapılar(Structs).pdb
+C:\Users\HP\Desktop\Nesne Tabanlı\6HaftaOrnekYapılar(Structs)\6HaftaOrnekYapılar(Structs)\obj\Debug\6HaftaOrnekYapılar(Structs).csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\6HaftaOrnekYapılar(Structs)\6HaftaOrnekYapılar(Structs)\obj\Debug\6HaftaOrnekYapılar(Structs).csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\6HaftaOrnekYapılar(Structs)\6HaftaOrnekYapılar(Structs)\obj\Debug\6HaftaOrnekYapılar(Structs).csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\6HaftaOrnekYapılar(Structs)\6HaftaOrnekYapılar(Structs)\obj\Debug\6HaftaOrnekYapılar(Structs).exe
+C:\Users\HP\Desktop\Nesne Tabanlı\6HaftaOrnekYapılar(Structs)\6HaftaOrnekYapılar(Structs)\obj\Debug\6HaftaOrnekYapılar(Structs).pdb

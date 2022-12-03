@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Nesne Tabanlı\9HaftaOrnekİsimSaklama\9HaftaOrnekİsimSaklama\bin\Debug\9HaftaOrnekİsimSaklama.exe.config
+C:\Users\HP\Desktop\Nesne Tabanlı\9HaftaOrnekİsimSaklama\9HaftaOrnekİsimSaklama\bin\Debug\9HaftaOrnekİsimSaklama.exe
+C:\Users\HP\Desktop\Nesne Tabanlı\9HaftaOrnekİsimSaklama\9HaftaOrnekİsimSaklama\bin\Debug\9HaftaOrnekİsimSaklama.pdb
+C:\Users\HP\Desktop\Nesne Tabanlı\9HaftaOrnekİsimSaklama\9HaftaOrnekİsimSaklama\obj\Debug\9HaftaOrnekİsimSaklama.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\9HaftaOrnekİsimSaklama\9HaftaOrnekİsimSaklama\obj\Debug\9HaftaOrnekİsimSaklama.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\9HaftaOrnekİsimSaklama\9HaftaOrnekİsimSaklama\obj\Debug\9HaftaOrnekİsimSaklama.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\9HaftaOrnekİsimSaklama\9HaftaOrnekİsimSaklama\obj\Debug\9HaftaOrnekİsimSaklama.exe
+C:\Users\HP\Desktop\Nesne Tabanlı\9HaftaOrnekİsimSaklama\9HaftaOrnekİsimSaklama\obj\Debug\9HaftaOrnekİsimSaklama.pdb

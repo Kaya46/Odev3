@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Nesne Tabanlı\6HaftaOrnekSystem.EnumSınıfı\6HaftaOrnekSystem.EnumSınıfı\bin\Debug\6HaftaOrnekSystem.EnumSınıfı.exe.config
+C:\Users\HP\Desktop\Nesne Tabanlı\6HaftaOrnekSystem.EnumSınıfı\6HaftaOrnekSystem.EnumSınıfı\bin\Debug\6HaftaOrnekSystem.EnumSınıfı.exe
+C:\Users\HP\Desktop\Nesne Tabanlı\6HaftaOrnekSystem.EnumSınıfı\6HaftaOrnekSystem.EnumSınıfı\bin\Debug\6HaftaOrnekSystem.EnumSınıfı.pdb
+C:\Users\HP\Desktop\Nesne Tabanlı\6HaftaOrnekSystem.EnumSınıfı\6HaftaOrnekSystem.EnumSınıfı\obj\Debug\6HaftaOrnekSystem.EnumSınıfı.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\6HaftaOrnekSystem.EnumSınıfı\6HaftaOrnekSystem.EnumSınıfı\obj\Debug\6HaftaOrnekSystem.EnumSınıfı.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\6HaftaOrnekSystem.EnumSınıfı\6HaftaOrnekSystem.EnumSınıfı\obj\Debug\6HaftaOrnekSystem.EnumSınıfı.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\6HaftaOrnekSystem.EnumSınıfı\6HaftaOrnekSystem.EnumSınıfı\obj\Debug\6HaftaOrnekSystem.EnumSınıfı.exe
+C:\Users\HP\Desktop\Nesne Tabanlı\6HaftaOrnekSystem.EnumSınıfı\6HaftaOrnekSystem.EnumSınıfı\obj\Debug\6HaftaOrnekSystem.EnumSınıfı.pdb

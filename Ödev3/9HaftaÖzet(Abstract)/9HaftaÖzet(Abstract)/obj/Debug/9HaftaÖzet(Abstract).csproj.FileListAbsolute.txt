@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Nesne Tabanlı\9HaftaÖzet(Abstract)\9HaftaÖzet(Abstract)\bin\Debug\9HaftaÖzet(Abstract).exe.config
+C:\Users\HP\Desktop\Nesne Tabanlı\9HaftaÖzet(Abstract)\9HaftaÖzet(Abstract)\bin\Debug\9HaftaÖzet(Abstract).exe
+C:\Users\HP\Desktop\Nesne Tabanlı\9HaftaÖzet(Abstract)\9HaftaÖzet(Abstract)\bin\Debug\9HaftaÖzet(Abstract).pdb
+C:\Users\HP\Desktop\Nesne Tabanlı\9HaftaÖzet(Abstract)\9HaftaÖzet(Abstract)\obj\Debug\9HaftaÖzet(Abstract).csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\9HaftaÖzet(Abstract)\9HaftaÖzet(Abstract)\obj\Debug\9HaftaÖzet(Abstract).csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\9HaftaÖzet(Abstract)\9HaftaÖzet(Abstract)\obj\Debug\9HaftaÖzet(Abstract).csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\9HaftaÖzet(Abstract)\9HaftaÖzet(Abstract)\obj\Debug\9HaftaÖzet(Abstract).exe
+C:\Users\HP\Desktop\Nesne Tabanlı\9HaftaÖzet(Abstract)\9HaftaÖzet(Abstract)\obj\Debug\9HaftaÖzet(Abstract).pdb

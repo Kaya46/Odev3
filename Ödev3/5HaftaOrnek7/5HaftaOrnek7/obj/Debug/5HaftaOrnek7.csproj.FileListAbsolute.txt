@@ -1,0 +1,3 @@
+C:\Users\HP\Desktop\Nesne Tabanlı\5HaftaOrnek7\5HaftaOrnek7\obj\Debug\5HaftaOrnek7.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\5HaftaOrnek7\5HaftaOrnek7\obj\Debug\5HaftaOrnek7.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\5HaftaOrnek7\5HaftaOrnek7\obj\Debug\5HaftaOrnek7.csproj.CoreCompileInputs.cache

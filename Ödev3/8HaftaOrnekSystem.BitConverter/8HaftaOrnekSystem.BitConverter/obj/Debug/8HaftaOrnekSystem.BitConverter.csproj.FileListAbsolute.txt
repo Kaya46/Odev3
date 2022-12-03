@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Nesne Tabanlı\8HaftaOrnekSystem.BitConverter\8HaftaOrnekSystem.BitConverter\bin\Debug\8HaftaOrnekSystem.BitConverter.exe.config
+C:\Users\HP\Desktop\Nesne Tabanlı\8HaftaOrnekSystem.BitConverter\8HaftaOrnekSystem.BitConverter\bin\Debug\8HaftaOrnekSystem.BitConverter.exe
+C:\Users\HP\Desktop\Nesne Tabanlı\8HaftaOrnekSystem.BitConverter\8HaftaOrnekSystem.BitConverter\bin\Debug\8HaftaOrnekSystem.BitConverter.pdb
+C:\Users\HP\Desktop\Nesne Tabanlı\8HaftaOrnekSystem.BitConverter\8HaftaOrnekSystem.BitConverter\obj\Debug\8HaftaOrnekSystem.BitConverter.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\8HaftaOrnekSystem.BitConverter\8HaftaOrnekSystem.BitConverter\obj\Debug\8HaftaOrnekSystem.BitConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\8HaftaOrnekSystem.BitConverter\8HaftaOrnekSystem.BitConverter\obj\Debug\8HaftaOrnekSystem.BitConverter.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nesne Tabanlı\8HaftaOrnekSystem.BitConverter\8HaftaOrnekSystem.BitConverter\obj\Debug\8HaftaOrnekSystem.BitConverter.exe
+C:\Users\HP\Desktop\Nesne Tabanlı\8HaftaOrnekSystem.BitConverter\8HaftaOrnekSystem.BitConverter\obj\Debug\8HaftaOrnekSystem.BitConverter.pdb
